@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mwanikipinchez
 - 👀 I’m interested in software engineering and full stack engineer to be specific.
-- 🌱 I’m currently in 4th year at chuka university.
+- 🌱 I’m currently looking for an entry role in software development.
 - 💞️ I’m looking to collaborate on web development.
 -    Skills and technologies include java, spring framework, springboot, Css, html, JavaScript, mysql and MongoDB.
 - 📫 How to reach me you can reach me through my email address, mwanikipinchez@gmail.com or call 0745902129.
